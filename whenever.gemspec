@@ -29,6 +29,8 @@ Gem::Specification.new do |s|
      "lib/whenever/job.rb",
      "lib/whenever/job_list.rb",
      "lib/whenever/job_types/default.rb",
+     "lib/whenever/job_types/rails2.rb",
+     "lib/whenever/job_types/rails3.rb",
      "lib/whenever/outputs/cron.rb",
      "lib/whenever/outputs/cron/output_redirection.rb",
      "lib/whenever/version.rb",

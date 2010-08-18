@@ -1,0 +1,1 @@
+job_type :runner_rails3,  'cd :path && script/rails runner -e :environment ":task"'

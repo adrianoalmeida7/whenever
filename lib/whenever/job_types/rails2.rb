@@ -1,0 +1,1 @@
+job_type :runner_rails2,  'cd :path && script/runner -e :environment ":task"'
